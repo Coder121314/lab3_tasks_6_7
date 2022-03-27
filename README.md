@@ -1,1 +1,2 @@
-# lab3_tasks_6_7
+Lab 3
+tasks 6 and 7
